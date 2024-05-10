@@ -1,0 +1,11 @@
+[package]
+name = "imap-search"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+imap = "*"
+native-tls = "0.2.11"
+rayon = "*"
+colored = "*"
+rand = "*"
